@@ -1,5 +1,4 @@
-# BL_shellScripting
-# BridgeLabz Assignments and Submissions
+# BridgeLabz Assignments and Submissions {BL_shellScripting}
 
 This repository contains the assignments and submissions for the BridgeLabz program's Shell scripting part.
 
